@@ -25,7 +25,7 @@
 import Dispatch
 #endif
 import Foundation
-import SKCore
+@_exported import SKCore
 
 open class Client {
     
