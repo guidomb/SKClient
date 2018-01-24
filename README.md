@@ -49,7 +49,7 @@ import PackageDescription
   
 let package = Package(
 	dependencies: [
-		.package(url: "https://github.com/SlackKit/SKClient.git", .upToNextMinor(from: "4.0.0"))
+		.package(url: "https://github.com/SlackKit/SKClient.git", .upToNextMinor(from: "4.1.0"))
 	]
 )
 ```
